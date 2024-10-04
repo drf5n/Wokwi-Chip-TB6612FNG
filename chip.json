@@ -1,0 +1,33 @@
+{
+  "name": "TB6612FNG",
+  "author": "David Forrest",
+  "pins": [
+    "GND",
+    "VCC",
+    "AO1",     
+    "AO2",
+    "BO2",
+    "BO1",
+    "VMOT",
+    "GND1",
+    "GND2",
+    "PWMB",
+    "BIN2",
+    "BIN1",
+    "nSTBY",
+    "AIN1",
+    "AIN2",
+    "PWMA"
+ 
+  ],
+  "controls": [
+    {
+      "id": "Vs",
+      "label": "External Voltage (V)",
+      "type": "range",
+      "min": 0,
+      "max": 13.5,
+      "step": 0.1
+    }
+  ]
+}

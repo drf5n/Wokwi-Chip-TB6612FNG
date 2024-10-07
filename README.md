@@ -27,6 +27,8 @@ The actual source code for the chip lives in [src/main.c](https://github.com/drf
 
 ## Examples
 
+* [Wokwi Mega with TB6612FNG](https://wokwi.com/projects/411109185758524417) -- with stepper-esc+stepper for DC motor simA
+* [Wokwi Uno with TB6612FNG]](https://wokwi.com/projects/411112944848391169) -- with LED-motors and scopes
 * [Wokwi Uno with TB6612FNG driver  using tabbed files](https://wokwi.com/projects/410323062531374081) -- with LED-motors and scopes
 
 
